@@ -1,0 +1,13 @@
+.venv/
+venv/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*.db
+*.db
+evals/last_report.json
+.mypy_cache/
+.ruff_cache/
+.uv-cache/
+.uv-python/

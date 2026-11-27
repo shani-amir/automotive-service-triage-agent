@@ -1,0 +1,12 @@
+.venv
+venv
+.git
+.env
+.env.*
+tests
+data/*.db
+**/__pycache__
+.pytest_cache
+.uv-cache
+.uv-python
+evals/last_report.json
